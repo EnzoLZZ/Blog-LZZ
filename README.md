@@ -1,1 +1,2 @@
-# CAR
+# mg blog
+# Django's project
